@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="transform transition-all hover:scale-105">
           <Link href="/">
             <Image
-              src="/cobaztech.png"
+              src="/webutsav.png"
               alt="Digimedia Solutions"
               width={150}
               height={50}
